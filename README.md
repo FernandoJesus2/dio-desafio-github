@@ -1,4 +1,4 @@
-# dio-desafio-github
+#  Repositorio sobre o desafio de projeto da DIO
 Primeiro desafio de projeto sobre git/github no primeiro bootcamp
 
 ## Teste simples <br>
